@@ -1,0 +1,12 @@
+D:\Projects\ToDoListAPI\ToDoList.Contracts\bin\Debug\net5.0\ToDoList.Contracts.deps.json
+D:\Projects\ToDoListAPI\ToDoList.Contracts\bin\Debug\net5.0\ToDoList.Contracts.dll
+D:\Projects\ToDoListAPI\ToDoList.Contracts\bin\Debug\net5.0\ref\ToDoList.Contracts.dll
+D:\Projects\ToDoListAPI\ToDoList.Contracts\bin\Debug\net5.0\ToDoList.Contracts.pdb
+D:\Projects\ToDoListAPI\ToDoList.Contracts\obj\Debug\net5.0\ToDoList.Contracts.csprojAssemblyReference.cache
+D:\Projects\ToDoListAPI\ToDoList.Contracts\obj\Debug\net5.0\ToDoList.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ToDoListAPI\ToDoList.Contracts\obj\Debug\net5.0\ToDoList.Contracts.AssemblyInfoInputs.cache
+D:\Projects\ToDoListAPI\ToDoList.Contracts\obj\Debug\net5.0\ToDoList.Contracts.AssemblyInfo.cs
+D:\Projects\ToDoListAPI\ToDoList.Contracts\obj\Debug\net5.0\ToDoList.Contracts.csproj.CoreCompileInputs.cache
+D:\Projects\ToDoListAPI\ToDoList.Contracts\obj\Debug\net5.0\ToDoList.Contracts.dll
+D:\Projects\ToDoListAPI\ToDoList.Contracts\obj\Debug\net5.0\ref\ToDoList.Contracts.dll
+D:\Projects\ToDoListAPI\ToDoList.Contracts\obj\Debug\net5.0\ToDoList.Contracts.pdb

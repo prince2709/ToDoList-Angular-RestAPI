@@ -1,0 +1,15 @@
+D:\Projects\ToDoListAPI\ToDoList.SqlRepositories\bin\Debug\net5.0\ToDoList.SqlRepositories.deps.json
+D:\Projects\ToDoListAPI\ToDoList.SqlRepositories\bin\Debug\net5.0\ToDoList.SqlRepositories.dll
+D:\Projects\ToDoListAPI\ToDoList.SqlRepositories\bin\Debug\net5.0\ref\ToDoList.SqlRepositories.dll
+D:\Projects\ToDoListAPI\ToDoList.SqlRepositories\bin\Debug\net5.0\ToDoList.SqlRepositories.pdb
+D:\Projects\ToDoListAPI\ToDoList.SqlRepositories\bin\Debug\net5.0\ToDoList.Contracts.dll
+D:\Projects\ToDoListAPI\ToDoList.SqlRepositories\bin\Debug\net5.0\ToDoList.Contracts.pdb
+D:\Projects\ToDoListAPI\ToDoList.SqlRepositories\obj\Debug\net5.0\ToDoList.SqlRepositories.csprojAssemblyReference.cache
+D:\Projects\ToDoListAPI\ToDoList.SqlRepositories\obj\Debug\net5.0\ToDoList.SqlRepositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ToDoListAPI\ToDoList.SqlRepositories\obj\Debug\net5.0\ToDoList.SqlRepositories.AssemblyInfoInputs.cache
+D:\Projects\ToDoListAPI\ToDoList.SqlRepositories\obj\Debug\net5.0\ToDoList.SqlRepositories.AssemblyInfo.cs
+D:\Projects\ToDoListAPI\ToDoList.SqlRepositories\obj\Debug\net5.0\ToDoList.SqlRepositories.csproj.CoreCompileInputs.cache
+D:\Projects\ToDoListAPI\ToDoList.SqlRepositories\obj\Debug\net5.0\ToDoList.SqlRepositories.csproj.CopyComplete
+D:\Projects\ToDoListAPI\ToDoList.SqlRepositories\obj\Debug\net5.0\ToDoList.SqlRepositories.dll
+D:\Projects\ToDoListAPI\ToDoList.SqlRepositories\obj\Debug\net5.0\ref\ToDoList.SqlRepositories.dll
+D:\Projects\ToDoListAPI\ToDoList.SqlRepositories\obj\Debug\net5.0\ToDoList.SqlRepositories.pdb

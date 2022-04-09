@@ -1,0 +1,9 @@
+D:\Projects\ToDoListAPI\ToDoList.SqlRepositories\bin\Debug\netcoreapp3.1\ToDoList.SqlRepositories.deps.json
+D:\Projects\ToDoListAPI\ToDoList.SqlRepositories\bin\Debug\netcoreapp3.1\ToDoList.SqlRepositories.dll
+D:\Projects\ToDoListAPI\ToDoList.SqlRepositories\bin\Debug\netcoreapp3.1\ToDoList.SqlRepositories.pdb
+D:\Projects\ToDoListAPI\ToDoList.SqlRepositories\obj\Debug\netcoreapp3.1\ToDoList.SqlRepositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ToDoListAPI\ToDoList.SqlRepositories\obj\Debug\netcoreapp3.1\ToDoList.SqlRepositories.AssemblyInfoInputs.cache
+D:\Projects\ToDoListAPI\ToDoList.SqlRepositories\obj\Debug\netcoreapp3.1\ToDoList.SqlRepositories.AssemblyInfo.cs
+D:\Projects\ToDoListAPI\ToDoList.SqlRepositories\obj\Debug\netcoreapp3.1\ToDoList.SqlRepositories.csproj.CoreCompileInputs.cache
+D:\Projects\ToDoListAPI\ToDoList.SqlRepositories\obj\Debug\netcoreapp3.1\ToDoList.SqlRepositories.dll
+D:\Projects\ToDoListAPI\ToDoList.SqlRepositories\obj\Debug\netcoreapp3.1\ToDoList.SqlRepositories.pdb

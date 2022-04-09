@@ -1,0 +1,97 @@
+<div class="page-header">
+    <div class="container">
+        <h1>{{ header}}</h1>
+    </div>
+</div>
+<div class="container">
+    <div class="row top-row">
+        <div class="col-xs-8 row end-xs">
+            <a routerLink="/tasks" color="primary" mat-raised-button>
+                <mat-icon>chevron_left</mat-icon>
+                Go Back
+            </a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-6">
+            <form #taskDetailsForm="ngForm">
+                <div class="row">
+                    <div class="col-xs-6">
+                        <mat-form-field appearance="outline">
+                            <mat-label>Task ID</mat-label>
+                            <input type="text" matInput name="inputTaskID" [(ngModel)]="taskToUpdate.taskID"
+                                disabled="disabled" />
+                        </mat-form-field>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-6">
+                        <mat-form-field appearance="outline">
+                            <mat-label>Task Name</mat-label>
+                            <input type="text" matInput name="inputTaskName" [(ngModel)]="taskToUpdate.taskName" required />
+                            <mat-error>Task name is required!</mat-error>
+                        </mat-form-field>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-6">
+                        <mat-form-field appearance="fill">
+                            <mat-label>Due Date</mat-label>
+                            <input matInput [matDatepicker]="picker" [(ngModel)]="taskToUpdate.dueDate"
+                                name="inputDueDate" required>
+                            <mat-hint>MM/DD/YYYY</mat-hint>
+                            <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+                            <mat-datepicker #picker></mat-datepicker>
+                            <mat-error>Due date is required!</mat-error>
+                        </mat-form-field>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-6">
+                        <mat-form-field appearance="outline">
+                            <mat-label>Completed Date</mat-label>
+                            <input type="text" matInput name="inputCompleted Date"
+                                [(ngModel)]="taskToUpdate.completedDate" disabled="disabled" />
+                        </mat-form-field>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-6">
+                        <mat-form-field appearance="outline">
+                            <mat-label>Status</mat-label>
+                            <mat-select [(ngModel)]="taskToUpdate.status" name="statusSelect">
+                                <mat-option *ngFor="let status of tastStatusList" [value]="status.key">
+                                    {{ status.value}}
+                                </mat-option>
+                            </mat-select>
+                        </mat-form-field>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-6">
+                        <mat-form-field appearance="outline">
+                            <mat-label>Assigned To</mat-label>
+                            <mat-select [(ngModel)]="taskToUpdate.assignedToUserID" name="asignedToSelect">
+                                <mat-option [value]="0">Select</mat-option>
+                                <mat-option *ngFor="let user of userViewList" [value]="user.userID">
+                                    {{ user.userName}}
+                                </mat-option>
+                            </mat-select>
+                        </mat-form-field>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-6" *ngIf="!isNewTask">
+                        <button mat-raised-button color="primary" (click)="onUpdate()">Save</button>
+                    </div>
+                    <div class="col-xs-6" *ngIf="isNewTask">
+                        <button mat-raised-button color="primary" (click)="onAdd()">Add</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="col-xs-6">
+
+        </div>
+    </div>
+</div>
